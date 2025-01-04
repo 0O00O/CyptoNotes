@@ -1,0 +1,2 @@
+# CyptoNotes
+All about cypto
